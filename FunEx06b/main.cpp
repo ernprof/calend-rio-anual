@@ -14,8 +14,6 @@ juliana e calcular o resto da divisão da data juliana por 7. A função deverá
 4 - Sexta-feira
 5 - Sábado
 6 - Domingo
-
-
 Faça um calendario anual
 
 Autor: Ernandes em 16/02/2018
